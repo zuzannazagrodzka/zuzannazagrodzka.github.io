@@ -1,0 +1,13 @@
+---
+title: "Contact"
+# date: "2024-03-12"
+# date-modified: "2024-03-12"
+about:
+  template: jolla
+  # template: trestles
+  # template: solana
+  # template: marquee
+  # template: broadside
+---
+
+email: z.zagrodzka\@sheffield.ac.uk
