@@ -1,5 +1,7 @@
 ---
 title: "Zuzanna Zagrodzka"
+format: html
+  meta name="google-site-verification" content="pqO-LdG91Oi1cACI3-xiKDW_CthGqBH6MpmYIcwerp4"
 image: profile.png
 about:
   template: jolla
@@ -19,8 +21,6 @@ about:
       text: Github
       href: https://github.com/zuzannazagrodzka
 ---
-
-<meta name="google-site-verification" content="pqO-LdG91Oi1cACI3-xiKDW_CthGqBH6MpmYIcwerp4" />
 
 ## PhD student at the University of Sheffield
 
