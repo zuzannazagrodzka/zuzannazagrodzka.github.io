@@ -8,10 +8,10 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - publications.qmd
       - experience.qmd
+      - publications.qmd
       - contact.qmd
-
+# run quarto render in Terminal
 
 format:
   html:
