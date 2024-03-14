@@ -1,0 +1,40 @@
+---
+title: "Experience & Education"
+# date: "2024-03-14"
+date-modified: "2024-03-14"
+about:
+  template: marquee 
+---
+
+[**Education**]{.underline}\
+\
+[Oct 2020]{.underline} - present PhD student at the **School of Biosciences, University of Sheffield, UK**; Thesis: "Evaluating the perception of bias, replication and transparency in evolution and ecology"
+
+**Chapter 1:** "Accelerating the open research agenda to solve global challenges" published [here](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10887)\
+\
+[Oct 2011 -- Jul 2014]{.underline} MSc degree in Biology at the **Jagiellonian University in Krakow, Poland**; Thesis: "Influence of microhabitat heterogeneity on offspring sex allocation and offspring condition in great tit (Parus major)"\
+\
+[Sep 2013 -- Mar 2014]{.underline} exchange studies in Biology (Erasmus programme) at the **Tjärnö Marine Biological Laboratory, University of Gothenburg, Sweden**\
+\
+[Oct 2008 -- Jul 2011]{.underline} BSc degree in Biology at the **Jagiellonian University in Krakow, Poland**; Thesis: "Colony Collapse Disorder -- phenomenon of abrupt disappearance of honey bees"\
+\
+\
+[**Professional experience**]{.underline}
+
+[Jan 2017 -- Oct 2020]{.underline} **Department of Animal and Plant Sciences, University of Sheffield** Employed as a Research Technician. Laboratory work (RNA and gDNA), collection of morphometric and behavioural data, organisation and participation in fieldwork (France, Spain, Sweden, England, Wales) and data analysis (in R, Python), supervising students and postdocs ;) in the field and laboratory (*L. saxatilis, L. arcana*)
+
+[May -- Nov 2016]{.underline} **Tjärnö Marine Biological Laboratory, University of Gothenburg** Employed as a research assistant: laboratory work (*L. saxatilis, Symphodus melops*), cultivation of brine shrimp, barnacles, seaweed flies and snails.
+
+[Nov 2015 -- Apr 2016]{.underline} **Institute for Hydrobiology and Fisheries Science, University of Hamburg** Scholarship holder in the DBU Scholarship Exchange Programme. Research topic: Spatio-temporal patterns of Baltic phytoplankton diversity (functional diversity). Data analysing in R
+
+[Mar -- Sep 2015]{.underline} **Research unit Evolutionary Ecology of Marine Fishes in GEOMAR, Kiel** Scholarship holder in the DBU Scholarship Exchange Programme. Involved in: Baltic Sea Marine Biodiversity (BAMBI), focusing on climate change and adaptive transgenerational plasticity in *Gasterosteus aculeatus*. Breeding fish, fish care, maintaining aquariums, fieldwork and laboratory work
+
+[Oct --Dec 2014]{.underline} **Tjärnö Marine Biological Laboratory, University of Gothenburg** Employed as a Research Assistant. Laboratory work, morphometric measurements (*L. saxatilis*)
+
+[Mar -- Oct 2014]{.underline} **Institute of Nature Conservation Polish Academy of Science in Krakow** Employed as a Research Technician in projects on *Solidago virgaurea* and *Juglans regia*: 1) Fragmentation or invasion -- what is a bigger threat for biodiversity? 2) The co-existence of two invasive species in one habitat -- synergy or anthagonism? Plant cultivation in a greenhouse, morphometric and physiological measurements
+
+[Sep 2013 -- Mar 2014]{.underline} **Tjärnö Marine Biological Laboratory, University of Gothenburg** Involved in various projects (genetic projects on *Fucus sp.* and *Balanus improvisus*, and experimental work on *Littorina saxatilis* and *Amphibalanus improvisus*). Fieldwork, laboratory work, data collection
+
+[Jul 2011]{.underline} **Department of Behavioural Ecology, Jagiellonian University** Field study on Phengaris teleius and *Phengaris nausithous* (population estimates, habitat fragmentation and migration). Fieldwork
+
+[Aug 2010]{.underline} **Department of Monitoring and Research, Biebrza National Park** - Internship. Office work and field study (field survey): moths, damselflies and dragonflies
