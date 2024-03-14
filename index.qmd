@@ -1,6 +1,5 @@
 ---
 title: "Zuzanna Zagrodzka"
-google_analytics: "pqO-LdG91Oi1cACI3-xiKDW_CthGqBH6MpmYIcwerp4"
 image: profile.png
 about:
   template: jolla
