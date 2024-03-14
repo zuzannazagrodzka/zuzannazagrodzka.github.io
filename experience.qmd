@@ -8,7 +8,7 @@ about:
 
 [**Education**]{.underline}\
 \
-[Oct 2020]{.underline} - present PhD student at the **School of Biosciences, University of Sheffield, UK**; Thesis: **"Evaluating the perception of bias, replication and transparency in evolution and ecology"**
+[Oct 2020 - present]{.underline} PhD student at the **School of Biosciences, University of Sheffield, UK**; Thesis: **"Evaluating the perception of bias, replication and transparency in evolution and ecology"**
 
 **Chapter 1: "Accelerating the open research agenda to solve global challenges"** published [**here**](https://onlinelibrary.wiley.com/doi/full/10.1002/ece3.10887)\
 \
