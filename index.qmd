@@ -1,6 +1,6 @@
 ---
 title: "Zuzanna Zagrodzka"
-image: profile.png
+image: profile_15032024_3.png
 about:
   template: jolla
   # template: trestles
