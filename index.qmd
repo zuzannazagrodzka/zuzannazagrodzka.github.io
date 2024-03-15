@@ -21,9 +21,11 @@ about:
       href: https://github.com/zuzannazagrodzka
 ---
 
+I am a PhD student at the University of Sheffield in [BecksLab](https://andbeck.github.io/beckslab/).
+
 I am an advocate for open science, focusing my research on exploring perceptions of bias, replication, reusability of data and transparency in ecology and evolutionary biology.
 
-I am interested in exploring the broad scientific landscape of researchers, publishers, repositories, funders, and institutions. This includes analysing their policies, visions, products, and incentives to evaluate the effects of evolving open research policies and identify areas for improvement.
+My interest extends to  exploring the broad scientific landscape of researchers, publishers, repositories, funders, and institutions. This includes analysing their policies, visions, products, and incentives to evaluate the effects of evolving open research policies and identify areas for improvement.
 
 Before pursuing my PhD, I gained extensive experience as a Research Technician through involvement in various projects, developing skills in fieldwork, laboratory procedures, and data analysis.
 
