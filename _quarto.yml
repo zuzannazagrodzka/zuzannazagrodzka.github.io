@@ -8,7 +8,7 @@ website:
     left:
       - href: index.qmd
         text: Home
-      - experience.qmd
+      # - experience.qmd
       - publications.qmd
       - contact.qmd
 # run quarto render in Terminal
